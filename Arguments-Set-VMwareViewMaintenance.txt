@@ -1,0 +1,3 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+"& C:\Scripts\Set-VMwareViewMaintenance.ps1 -VMwareViewHost ‘SRVV3A06.peelenmaas.local’ -vCenter ‘SRVMGT07.peelenmaas.local’"
